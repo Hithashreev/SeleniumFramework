@@ -1,0 +1,63 @@
+2024-12-31 17:55:51 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hithu\eclipse-workspace\Selenium_Framework\src\test\java\testcases\testnglogin.xml
+
+2024-12-31 17:56:08 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hithu\eclipse-workspace\Selenium_Framework\src\test\java\testcases\testnglogin.xml
+
+2024-12-31 17:58:27 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hithu\eclipse-workspace\Selenium_Framework\src\test\java\testcases\testnglogin.xml
+
+2024-12-31 18:01:38 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hithu\eclipse-workspace\Selenium_Framework\src\test\java\testcases\testnglogin.xml
+
+2024-12-31 18:02:03 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hithu\eclipse-workspace\Selenium_Framework\src\test\java\testcases\testnglogin.xml
+
+2024-12-31 18:05:08 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hithu\eclipse-workspace\Selenium_Framework\src\test\java\testcases\testnglogin.xml
+
+2024-12-31 18:05:17 [main] INFO  testcases.tc_01_accountregister - *****Starting registertest****
+2024-12-31 18:05:18 [main] INFO  testcases.tc_01_accountregister - Clicked on my account link
+2024-12-31 18:05:19 [main] INFO  testcases.tc_01_accountregister - Clicked on my register link
+2024-12-31 18:05:19 [main] INFO  testcases.tc_01_accountregister - providing customer details
+2024-12-31 18:05:27 [main] INFO  testcases.Tc_02_logintest - ******Starting tc_02 login test*******
+2024-12-31 18:12:26 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hithu\eclipse-workspace\Selenium_Framework\src\test\java\testcases\testnglogin.xml
+
+2024-12-31 18:12:33 [main] INFO  testcases.tc_01_accountregister - *****Starting registertest****
+2024-12-31 18:12:33 [main] INFO  testcases.tc_01_accountregister - Clicked on my account link
+2024-12-31 18:12:34 [main] INFO  testcases.tc_01_accountregister - Clicked on my register link
+2024-12-31 18:12:34 [main] INFO  testcases.tc_01_accountregister - providing customer details
+2024-12-31 18:12:41 [main] INFO  testcases.Tc_02_logintest - ******Starting tc_02 login test*******
+2024-12-31 18:13:25 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hithu\eclipse-workspace\Selenium_Framework\src\test\java\testcases\testnglogin.xml
+
+2024-12-31 18:13:31 [main] INFO  testcases.tc_01_accountregister - *****Starting registertest****
+2024-12-31 18:13:31 [main] INFO  testcases.tc_01_accountregister - Clicked on my account link
+2024-12-31 18:13:33 [main] INFO  testcases.tc_01_accountregister - Clicked on my register link
+2024-12-31 18:13:33 [main] INFO  testcases.tc_01_accountregister - providing customer details
+2024-12-31 18:13:38 [main] INFO  testcases.Tc_02_logintest - ******Starting tc_02 login test*******
+2024-12-31 18:16:59 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hithu\eclipse-workspace\Selenium_Framework\src\test\java\testcases\testnglogin.xml
+
+2024-12-31 18:17:05 [TestNG-tests-1] INFO  testcases.tc_01_accountregister - *****Starting registertest****
+2024-12-31 18:17:05 [TestNG-tests-1] INFO  testcases.tc_01_accountregister - Clicked on my account link
+2024-12-31 18:17:06 [TestNG-tests-1] INFO  testcases.tc_01_accountregister - Clicked on my register link
+2024-12-31 18:17:06 [TestNG-tests-1] INFO  testcases.tc_01_accountregister - providing customer details
+2024-12-31 18:17:12 [TestNG-tests-1] INFO  testcases.Tc_02_logintest - ******Starting tc_02 login test*******
+2024-12-31 18:18:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hithu\eclipse-workspace\Selenium_Framework\src\test\java\testcases\testnglogin.xml
+
+2024-12-31 18:18:07 [TestNG-tests-1] INFO  testcases.tc_01_accountregister - *****Starting registertest****
+2024-12-31 18:18:07 [TestNG-tests-1] INFO  testcases.tc_01_accountregister - Clicked on my account link
+2024-12-31 18:18:08 [TestNG-tests-1] INFO  testcases.tc_01_accountregister - Clicked on my register link
+2024-12-31 18:18:08 [TestNG-tests-1] INFO  testcases.tc_01_accountregister - providing customer details
+2024-12-31 18:18:12 [TestNG-tests-1] INFO  testcases.Tc_02_logintest - ******Starting tc_02 login test*******
+2024-12-31 18:19:28 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hithu\eclipse-workspace\Selenium_Framework\src\test\java\testcases\testnglogin.xml
+
+2024-12-31 18:19:35 [main] INFO  testcases.tc_01_accountregister - *****Starting registertest****
+2024-12-31 18:19:35 [main] INFO  testcases.tc_01_accountregister - Clicked on my account link
+2024-12-31 18:19:36 [main] INFO  testcases.tc_01_accountregister - Clicked on my register link
+2024-12-31 18:19:36 [main] INFO  testcases.tc_01_accountregister - providing customer details
+2024-12-31 18:19:41 [main] INFO  testcases.Tc_02_logintest - ******Starting tc_02 login test*******

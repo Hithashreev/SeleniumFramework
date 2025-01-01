@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <!-- Define custom logging patterns -->
+    <Properties>
+        <Property name="logPattern">%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %logger{36} - %msg%n</Property>
+        <Property name="logDir">./logs</Property>
+    </Properties>
+
+    <!-- Append logs to console -->
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="${logPattern}" />
+        </Console>
+        
+        <!-- Write logs to a rolling file -->
+        <RollingFile name="File" fileName="${logDir}/application.log" filePattern="${logDir}/application-%d{yyyy-MM-dd}-%i.log.gz">
+            <PatternLayout pattern="${logPattern}" />
+            <Policies>
+                <TimeBasedTriggeringPolicy />
+                <SizeBasedTriggeringPolicy size="10MB" />
+            </Policies>
+        </RollingFile>
+    </Appenders>
+
+    <!-- Define log levels -->
+    <Loggers>
+        <!-- Application-specific logging -->
+        <Logger name="com.example" level="INFO" additivity="false">
+          <!--  <AppenderRef ref="Console" /> -->
+            <AppenderRef ref="File" />
+        </Logger>
+
+        <!-- Root logger -->
+        <Root level="Info">
+            <AppenderRef ref="Console" />
+            <AppenderRef ref="File" />
+        </Root>
+    </Loggers>
+</Configuration>
